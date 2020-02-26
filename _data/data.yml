@@ -46,8 +46,8 @@ career-profile:
     summary: |
       Wanting to have best one.
 education:
-    - degree: Elektrotehničar računara
-      university: High Tehnical School "Mihajlo Pupin" Kula
+    - degree: Computer technician
+      university: HTS "Mihajlo Pupin" Kula
       time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -58,7 +58,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: 
-      university: Primary School "Veljko Vlahović" Kruščić
+      university: PS "Veljko Vlahović" Kruščić
       time: 2008 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -69,10 +69,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: None yet.
-      time: 
-      company: 
-      details: 
+    - role: None yet. 
        
 projects:
     title: Projects
@@ -81,10 +78,10 @@ projects:
     assignments:
       - title: GitHub
         link: "#hook"
-        tagline: "Still a very new at using it."
+        tagline: "New at using it."
       - title: Linux
         link: "#"
-        tagline: "Still a very new at using it."
+        tagline: "New at using it."
 
 skills:
     title: Skills &amp; Proficiency
@@ -104,10 +101,10 @@ skills:
         level: 10%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 40%
 
       - name: Photoshop
-        level: 60%
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
